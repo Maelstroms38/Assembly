@@ -1,0 +1,847 @@
+TAssembly
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist
+cProcessPCH /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.pch Assembly/Assembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o /Users/michaelstromer/Documents/Codes/Assembly/Group.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly normal armv7
+cCopyStringsFile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/en.lproj/InfoPlist.strings Assembly/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Images.xcassets
+cProcessInfoPlistFile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Info.plist /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Info.plist
+cGenerateDSYMFile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app.dSYM /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly
+cProcessProductPackaging /Users/michaelstromer/Library/MobileDevice/Provisioning\ Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision
+cTouch /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent
+cCodeSign /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534F1FA70000000000000132
+t1397694375
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531E47E80000000000000094
+t1394493416
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531E47E80000000000000096
+t1394493416
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000534F1F3F000000000000036B
+t1397694271
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E47E8000000000000019E
+t1394493416
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531E47EA000000000063A500
+t1394493418
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531E47EA000000000079C660
+t1394493418
+s7980640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534738DC00000000004D7BC0
+t1397176540
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531E47EA0000000000433410
+t1394493418
+s4404240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531E47EA0000000000152370
+t1394493418
+s1385328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531E47EA0000000000306EF0
+t1394493418
+s3174128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531E47EA000000000006DCD0
+t1394493418
+s449744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E47EB0000000000A90C10
+t1394493419
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531E47EC00000000000417E0
+t1394493420
+s268256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531E47ED0000000000649DB0
+t1394493421
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531E47EC0000000000186D60
+t1394493420
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E47F30000000002759920
+t1394493427
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531E47F80000000000385D50
+t1394493432
+s3693904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+c00000000531E47FB000000000001E300
+t1394493435
+s123648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+c00000000531E47FB000000000055EFE0
+t1394493435
+s5631968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+c00000000531E47FB000000000002A880
+t1394493435
+s174208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000531E47FB00000000000458C0
+t1394493435
+s284864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000531E47FB000000000003E3E0
+t1394493435
+s254944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+c00000000531E47FB000000000002B130
+t1394493435
+s176432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000531E47FB00000000000E1FD0
+t1394493435
+s925648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531E47FB00000000000A2A70
+t1394493435
+s666224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+c00000000531E47FB000000000001E8A0
+t1394493435
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+c00000000531E47FB000000000000BF00
+t1394493435
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+c00000000531E47FB0000000000034380
+t1394493435
+s213888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+c00000000531E47FB0000000000022F30
+t1394493435
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+c00000000531E47FB000000000001E2A0
+t1394493435
+s123552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000531E47FB0000000000052520
+t1394493435
+s337184
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000531E47FB0000000000015F20
+t1394493435
+s89888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531E47FB00000000001B90D0
+t1394493435
+s1806544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531E47FB000000000001F170
+t1394493435
+s127344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531E47FB000000000002FCF0
+t1394493435
+s195824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+c00000000531E47FB000000000008A150
+t1394493435
+s565584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531E47FB00000000000B60E0
+t1394493435
+s745696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+c00000000531E47FB0000000000078720
+t1394493435
+s493344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531E47FB00000000000621F0
+t1394493435
+s401904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531E47FB00000000000BDAE0
+t1394493435
+s776928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000531E47FB0000000000039080
+t1394493435
+s233600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531E47FB000000000003CBC0
+t1394493435
+s248768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000531E47FB000000000002CFE0
+t1394493435
+s184288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531E47FB000000000001EB50
+t1394493435
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531E47FB000000000001EED0
+t1394493435
+s126672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+c00000000531E47FB00000000000236B0
+t1394493435
+s145072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531E47FB00000000000AC500
+t1394493435
+s705792
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E48270000000000000ADC
+t1394493479
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534738DC000000000000514C
+t1397176540
+s20812
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.h
+c0000000053AC46730000000000000187
+t1403799155
+s391
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m
+c0000000053AC46AD00000000000003C0
+t1403799213
+s960
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Info.plist
+c0000000053AC47B40000000000000518
+t1403799476
+s1304
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Prefix.pch
+c0000000053AC40260000000000000158
+t1403797542
+s344
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Base.lproj/Main.storyboard
+c0000000053AC4A8C000000000000206A
+t1403800204
+s8298
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.h
+c0000000053AC492A00000000000001C5
+t1403799850
+s453
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m
+c0000000053AC480000000000000000C9
+t1403799552
+s201
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.h
+c0000000053AC4395000000000000012C
+t1403798421
+s300
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m
+c0000000053AC43A4000000000000044D
+t1403798436
+s1101
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Images.xcassets
+c0000000053AC4B850000000000000088
+t1403800453
+s136
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.h
+c0000000053AC46CC0000000000000117
+t1403799244
+s279
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m
+c0000000053AC474C00000000000009F8
+t1403799372
+s2552
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.h
+c0000000053AC42D300000000000001C1
+t1403798227
+s449
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m
+c0000000053AC435C0000000000000431
+t1403798364
+s1073
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.h
+c0000000053AC442E000000000000024C
+t1403798574
+s588
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m
+c0000000053AC47600000000000000384
+t1403799392
+s900
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManagerDelegate.h
+c0000000053AC43FF0000000000000146
+t1403798527
+s326
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/en.lproj/InfoPlist.strings
+c0000000053AC4026000000000000002D
+t1403797542
+s45
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m
+c0000000053AC4026000000000000015A
+t1403797542
+s346
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent
+t1403800460
+s475
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o
+t1403799394
+s68392
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Assembly.LinkFileList
+c0000000053AC484E000000000000049D
+t1403799630
+s1181
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o
+t1403800057
+s46420
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o
+t1403799630
+s10012
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o
+t1403799394
+s10176
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o
+t1403800057
+s60508
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o
+t1403799394
+s13644
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o
+t1403799630
+s14500
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o
+t1403799630
+s3844
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/assetcatalog_dependencies.txt
+t1403800460
+s714
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/assetcatalog_generated_info.plist
+t1403800460
+s777
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.pch
+t1403799394
+s94208
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+t1403800460
+s510
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app.dSYM
+t1403800058
+s102
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly
+t1403800139
+s75888
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Base.lproj/Main.storyboardc
+t1403800460
+s170
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Info.plist
+t1403800460
+s1438
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/PkgInfo
+t1403800460
+s8
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist
+t1403799393
+s150
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision
+t1403799632
+s7679
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/en.lproj/InfoPlist.strings
+t1403799630
+s42
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Group.h
+c0000000053AC420C00000000000001BE
+t1403798028
+s446
+
+N/Users/michaelstromer/Documents/Codes/Assembly/Group.m
+c0000000053AC41F900000000000000BA
+t1403798009
+s186
+
+N/Users/michaelstromer/Documents/Codes/Assembly/MeetupCommunicatorDelegate.h
+c0000000053AC42890000000000000165
+t1403798153
+s357
+
+N/Users/michaelstromer/Library/MobileDevice/Provisioning Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision
+c000000005391F8360000000000001DFF
+t1402075190
+s7679
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicatorDelegate.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Assembly/Group.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3f6e170b835cb941^8d0a180b835cb941^---0#1#1#--18"Check dependencies36"50877208-787B-410C-A5DC-240A356CF9B9-
+
+CCodeSign /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+s425493260.538915
+e425493260.672351
+r1
+xCodeSign
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+o/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"CodeSign Build/Products/Debug-iphoneos/Assembly.app51"CodeSign Build/Products/Debug-iphoneos/Assembly.app92038a0c835cb941^da1fac0c835cb941^-120"/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@97"file:///Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/0000000000000000^1039"CodeSign Build/Products/Debug-iphoneos/Assembly.app    cd /Users/michaelstromer/Documents/Codes/Assembly    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Adam Rice (KR72G96VFY)" and provisioning profile "iOS Team Provisioning Profile: *" (3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E)    /usr/bin/codesign --force --sign 5721E576AE38CA57AEB9E003684BD3B5C8181C62 --resource-rules=/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist --entitlements /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app36"7C890B7E-98ED-4F7E-9B8B-FB91A38BF95A-
+b21F234EA-AE99-4B30-8674-AE1B36B53F14
+
+CCompileAssetCatalog /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Images.xcassets
+s425493259.096913
+e425493260.400896
+r1
+xCompileAssetCatalog
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/AppIcon29x29@2x.png
+o/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/AppIcon40x40@2x.png
+o/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/AppIcon60x60@2x.png
+o/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/LaunchImage-700-568h@2x.png
+o/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assets.car
+o/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CompileAssetCatalog Build/Products/Debug-iphoneos/Assembly.app Assembly/Images.xcassets87"CompileAssetCatalog Build/Products/Debug-iphoneos/Assembly.app Assembly/Images.xcassets6adf180b835cb941^73a1660c835cb941^-739"/* com.apple.actool.compilation-results *//Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/AppIcon29x29@2x.png/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/AppIcon40x40@2x.png/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/AppIcon60x60@2x.png/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/LaunchImage-700-568h@2x.png/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assets.car/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@79"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/Images.xcassets/0000000000000000^1099"CompileAssetCatalog Build/Products/Debug-iphoneos/Assembly.app Assembly/Images.xcassets    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Images.xcassets36"007FE5A2-56F7-4A72-BE04-6278C593F0FE-
+b21F234EA-AE99-4B30-8674-AE1B36B53F14
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492194.029578
+e425492194.193767
+r1
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m200"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o Assembly/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdaab07e27e5cb941^e59b31e27e5cb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m0000000000000000^3627"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o Assembly/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o36"1D766FDD-3560-4374-ACFF-5C0AA9C32F75-
+bBF72B4F3-858B-414E-BA1E-A4A5536A7E24
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492857.108408
+e425492857.178477
+r1
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m198"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o Assembly/DetailCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler10041c79815cb941^10b12d79815cb941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m0000000000000000^3621"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o Assembly/DetailCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o36"A6326318-67ED-458A-9964-B07C6ABCBDFE-
+bB510DB8E-9ED6-4567-8194-1CBFDE8DFBE4
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailViewController.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o /Users/michaelstromer/Documents/Codes/Assembly/Group.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492430.811614
+e425492430.857940
+r1
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Group.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Group.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Group.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/michaelstromer/Documents/Codes/Assembly/Group.m179"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o Group.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbce8cfce7f5cb941^ada2dbce7f5cb941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/michaelstromer/Documents/Codes/Assembly/Group.m0000000000000000^3573"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o Group.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Group.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o36"AE7D6C65-0273-4837-B838-0C7C364D9947-
+b1837C99E-671A-4FAE-A198-82560FD5F259
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492194.030529
+e425492194.093639
+r0
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Group.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m202"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o Assembly/GroupBuilder.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f3c08e27e5cb941^27f717e27e5cb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m0000000000000000^3633"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o Assembly/GroupBuilder.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o36"C93EC26B-8B94-4082-B9F7-BA92DA17543F-
+bBF72B4F3-858B-414E-BA1E-A4A5536A7E24
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492857.108883
+e425492857.183442
+r1
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Group.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManagerDelegate.h
+d/Users/michaelstromer/Documents/Codes/Assembly/MeetupCommunicatorDelegate.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/DetailCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m218"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o Assembly/MasterViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler180a1c79815cb941^b6f62e79815cb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m0000000000000000^3681"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o Assembly/MasterViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MasterViewController.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o36"2A5EBE89-184B-4D69-B11E-5C543E53B5D3-
+bB510DB8E-9ED6-4567-8194-1CBFDE8DFBE4
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492194.029318
+e425492194.193965
+r1
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.h
+d/Users/michaelstromer/Documents/Codes/Assembly/MeetupCommunicatorDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m214"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o Assembly/MeetupCommunicator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc09607e27e5cb941^1daa31e27e5cb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m0000000000000000^3669"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o Assembly/MeetupCommunicator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o36"E2E86310-62D3-4F3A-8936-E63FEAFF828A-
+bBF72B4F3-858B-414E-BA1E-A4A5536A7E24
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicatorDelegate.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicatorDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492430.768053
+e425492430.826627
+r1
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManagerDelegate.h
+d/Users/michaelstromer/Documents/Codes/Assembly/MeetupCommunicatorDelegate.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupCommunicator.h
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/GroupBuilder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m204"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o Assembly/MeetupManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc3b7c4ce7f5cb941^499ed3ce7f5cb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m0000000000000000^3639"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o Assembly/MeetupManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/MeetupManager.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o36"28AF3E26-C95C-440F-8F11-B979A4178CE3-
+b1837C99E-671A-4FAE-A198-82560FD5F259
+
+CCompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o /Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492430.767390
+e425492430.810704
+r1
+xCompileC
+xBuild/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m186"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o Assembly/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c90c4ce7f5cb941^069ecfce7f5cb941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m0000000000000000^3585"CompileC Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o Assembly/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -include /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.dia -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/main.m -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o36"0B52D364-D5DD-46F4-8B2E-79B2A1FD9AEF-
+b1837C99E-671A-4FAE-A198-82560FD5F259
+
+CCompileStoryboard /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Base.lproj/Main.storyboard
+s425493259.096557
+e425493260.519722
+r1
+xCompileStoryboard
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CompileStoryboard Assembly/Base.lproj/Main.storyboard53"CompileStoryboard Assembly/Base.lproj/Main.storyboard92ca180b835cb941^f60c850c835cb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/Base.lproj/Main.storyboard0000000000000000^807"CompileStoryboard Assembly/Base.lproj/Main.storyboard    cd /Users/michaelstromer/Documents/Codes/Assembly    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Base.lproj/Main.storyboardc /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Base.lproj/Main.storyboard36"6A12C700-540C-4670-A9A4-7635CFB2C6C0-
+b21F234EA-AE99-4B30-8674-AE1B36B53F14
+
+CCopyStringsFile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/en.lproj/InfoPlist.strings Assembly/en.lproj/InfoPlist.strings
+s425492430.893948
+e425492430.894998
+r1
+xCopyStringsFile
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/en.lproj/InfoPlist.strings
+xAssembly/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Assembly/en.lproj/InfoPlist.strings121"CopyStringsFile Build/Products/Debug-iphoneos/Assembly.app/en.lproj/InfoPlist.strings Assembly/en.lproj/InfoPlist.strings75e8e4ce7f5cb941^3f1fe5ce7f5cb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/en.lproj/InfoPlist.strings0000000000000000^592"CopyStringsFile Build/Products/Debug-iphoneos/Assembly.app/en.lproj/InfoPlist.strings Assembly/en.lproj/InfoPlist.strings    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/en.lproj -- Assembly/en.lproj/InfoPlist.strings36"390117CD-2115-4F67-BF8A-84E32F61F9C3-
+b1837C99E-671A-4FAE-A198-82560FD5F259
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist
+s425492193.983867
+e425492193.984657
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist195"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist9eeffbe17e5cb941^354100e27e5cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist00347c18deffdf42^762"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app36"C830CE04-0051-4C7A-9929-54FC570883DA-
+bBF72B4F3-858B-414E-BA1E-A4A5536A7E24
+
+CGenerateDSYMFile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app.dSYM /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly
+s425493260.522887
+e425493260.536606
+r1
+xGenerateDSYMFile
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app.dSYM
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Generate /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app.dSYM116"GenerateDSYMFile Build/Products/Debug-iphoneos/Assembly.app.dSYM Build/Products/Debug-iphoneos/Assembly.app/Assembly9fe5850c835cb941^bb5f890c835cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app.dSYM/0000000000000000^656"GenerateDSYMFile Build/Products/Debug-iphoneos/Assembly.app.dSYM Build/Products/Debug-iphoneos/Assembly.app/Assembly    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app.dSYM36"C686D756-FD60-44C5-8B7F-BCC1EDCDF3A6-
+b21F234EA-AE99-4B30-8674-AE1B36B53F14
+
+CLd /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly normal armv7
+s425492857.185035
+e425492857.211825
+r1
+xLd
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly
+xnormal
+xarmv7
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Assembly.LinkFileList
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupCommunicator.o
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/AppDelegate.o
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/DetailCell.o
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MasterViewController.o
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/GroupBuilder.o
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/MeetupManager.o
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/main.o
+d/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Group.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly67"Ld Build/Products/Debug-iphoneos/Assembly.app/Assembly normal armv77a6c2f79815cb941^b03a3679815cb941^---0#0#1#--1352"Ld Build/Products/Debug-iphoneos/Assembly.app/Assembly normal armv7    cd /Users/michaelstromer/Documents/Codes/Assembly    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos -filelist /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Assembly.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreLocation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Objects-normal/armv7/Assembly_dependency_info.dat -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Assembly36"D5F85337-3AC3-45E8-96F9-0FFB761E5BC3-
+bB510DB8E-9ED6-4567-8194-1CBFDE8DFBE4
+
+CProcessInfoPlistFile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Info.plist /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Info.plist
+s425493260.520289
+e425493260.522525
+r1
+xProcessInfoPlistFile
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Info.plist
+x/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Process /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Info.plist103"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Assembly.app/Info.plist Assembly/Assembly-Info.plist3141850c835cb941^58c7850c835cb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Info.plist0000000000000000^1018"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Assembly.app/Info.plist Assembly/Assembly-Info.plist    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Info.plist -genpkginfo /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/ResourceRules.plist -additionalcontentfile /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/assetcatalog_generated_info.plist -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/Info.plist36"080C0FF8-6529-415A-94E9-B9BC6E223953-
+b21F234EA-AE99-4B30-8674-AE1B36B53F14
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.pch Assembly/Assembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425492193.985302
+e425492194.028706
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.pch
+xAssembly/Assembly-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Assembly/Assembly-Prefix.pch216"ProcessPCH Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.pch Assembly/Assembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere84efce17e5cb941^325a07e27e5cb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Prefix.pch0000000000000000^3516"ProcessPCH Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.pch Assembly/Assembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Assembly    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources/armv7 -I/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Assembly/Assembly/Assembly-Prefix.pch -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/PrecompiledHeaders/Assembly-Prefix-cxzoiwlotnpahvcazcovtowtpboz/Assembly-Prefix.pch.pch36"57C954CC-C656-41D1-B1D6-E395CA0C2D84-
+bBF72B4F3-858B-414E-BA1E-A4A5536A7E24
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Assembly-fpphvssmrakxnockdxxlunvufgeh/Index/PrecompiledHeaders/Assembly-Prefix-ejrurgxqueignqhcfbwsrtqejtff_ast/Assembly-Prefix.pch.pch Assembly/Assembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent
+s425493260.537424
+e425493260.538572
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection224"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent224"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent66a1890c835cb941^48e2890c835cb941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent0000000000000000^780"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Intermediates/Assembly.build/Debug-iphoneos/Assembly.build/Assembly.xcent36"178506B9-7E6D-41AA-8771-4CC417F0F49C-
+b21F234EA-AE99-4B30-8674-AE1B36B53F14
+
+CProcessProductPackaging /Users/michaelstromer/Library/MobileDevice/Provisioning\ Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision
+s425492432.123106
+e425492432.124084
+r1
+xProcessProductPackaging
+x/Users/michaelstromer/Library/MobileDevice/Provisioning Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection210"ProcessProductPackaging /Users/michaelstromer/Library/MobileDevice/Provisioning\ Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision210"ProcessProductPackaging /Users/michaelstromer/Library/MobileDevice/Provisioning\ Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovisionc0961fd07f5cb941^c1c41fd07f5cb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision00347c18deffdf42^726"ProcessProductPackaging /Users/michaelstromer/Library/MobileDevice/Provisioning\ Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/michaelstromer/Library/MobileDevice/Provisioning\ Profiles/3065CDB6-B9C6-4F66-8F9A-DC88A9346A2E.mobileprovision -o /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app/embedded.mobileprovision36"095354F0-B802-4A59-B415-822EAF543875-
+b1837C99E-671A-4FAE-A198-82560FD5F259
+
+CTouch /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+s425492939.387734
+e425492939.391227
+r1
+xTouch
+x/Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Touch /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app48"Touch Build/Products/Debug-iphoneos/Assembly.app7f4c63cb815cb941^e52864cb815cb941^---0#0#1#--403"Touch Build/Products/Debug-iphoneos/Assembly.app    cd /Users/michaelstromer/Documents/Codes/Assembly    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/michaelstromer/Documents/Codes/Assembly/Build/Products/Debug-iphoneos/Assembly.app36"DE37BB9E-1D5B-4704-BF0D-12BE83F7B1FF-
+b6622FD4F-8629-44B8-87AF-D9E3369828FB
+
